@@ -1,4 +1,4 @@
-![image](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123/blob/main/rancangbangun123_banner.PNG?raw=true)
+![image](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123/blob/main/rancangbangun123_porto.PNG?raw=true)
 
 # **Context**
 **RancangBangun123**
