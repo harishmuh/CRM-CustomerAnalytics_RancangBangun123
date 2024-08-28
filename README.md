@@ -65,3 +65,7 @@ By leveraging CRM analytics, the management and marketing division of RB123 aims
 * Develop New Pricing Model: Create scalable project options for clients with smaller budgets, involving standardized, lower-cost project templates.
 * Adjust Boarding House Strategy: If pursuing boarding house projects, adjust designs to meet customer expectations and optimize pricing strategies
 * Expand to Bogor: Prioritize expansion into Bogor due to its high lead volume and proximity to current operations. Conduct more research to understand specific needs and preferences of potential clients
+
+# **Assets**
+* Report: https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123/blob/main/Report_CRM_Analytics_RB123_2033to2024.pdf
+* Presentation: https://www.canva.com/design/DAGNoDkpAXM/PFnNOGo4hMkR3F1GBWnD0Q/edit?utm_content=DAGNoDkpAXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
