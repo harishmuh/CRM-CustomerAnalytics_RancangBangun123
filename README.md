@@ -22,6 +22,8 @@ RB123 operates through a well-structured process that ensures smooth and efficie
 
 CRM analytics involves gathering, analyzing, and interpreting customer data within a Customer Relationship Management (CRM) system to make informed business decisions. Leveraging CRM analytics is crucial for extracting meaningful insights from customer interactions and requirements. These insights can help organizations improve their relationships with customers, enhance customer satisfaction, and drive business growth. By using a CRM system, RB123 can build their customer journey pipeline, tracking progress from initial leads to successful deals (close wins).
 
+![image3](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123/blob/main/funneling%20and%20customer%20journey.PNG?raw=true)
+
 # **Problem Statement**
 The use of CRM systems in architecture and construction firms presents unique challenges compared to other tech-and digital industries. One primary issue is the difficulty in tracking and managing leads through the various stages due to the significantly longer customer journey and timelines (ranged from several months to few years). This extended journey is typical since building or renovating a home requires substantial financial investment, necessitating long-term savings for many clients. Consequently, potential clients are highly selective and critical, making it challenging to gain their trust and secure closed deals. Each lead stage demands different handling strategies, and errors in tracking within the CRM system can lead to miscommunication and dissatisfaction, ultimately reducing the chances of converting leads into clients.
 
