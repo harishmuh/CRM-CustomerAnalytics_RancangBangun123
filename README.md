@@ -13,6 +13,11 @@ RB123 operates on a full-service business model that encompasses various stages 
 
 RB123 operates through a well-structured process that ensures smooth and efficient project execution. The key operational steps include: Digital Marketing and Free consultation, Meeting and Client Consultation, Design Phase, Pre-Construction Planning, Construction Phase, Post-Construction Services
 
+**Business Canvas of RB123**
+
+![image2](https://github.com/user-attachments/assets/0f4949a6-a82b-423e-a851-65f52c272b6b)
+
+
 **Context: Customer - CRM Analytics**
 
 CRM analytics involves gathering, analyzing, and interpreting customer data within a Customer Relationship Management (CRM) system to make informed business decisions. Leveraging CRM analytics is crucial for extracting meaningful insights from customer interactions and requirements. These insights can help organizations improve their relationships with customers, enhance customer satisfaction, and drive business growth. By using a CRM system, RB123 can build their customer journey pipeline, tracking progress from initial leads to successful deals (close wins).
