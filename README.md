@@ -49,6 +49,13 @@ By leveraging CRM analytics, the management and marketing division of RB123 aims
 ### **Funneling by Marketing Channel**
 ![funnel_by_marketing_channel](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123/blob/main/funnelling%20by%20marketing%20channel.PNG?raw=true)
 
+### **Reasons for lost leads**
+![image](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123/blob/main/reasons%20of%20lost%20leads.PNG?raw=true)
+
+### **Location of lost leads**
+![image](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123/blob/main/location%20of%20lost%20leads.PNG?raw=true)
+
+
 ## **Insights**
 ![overal_insights](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123/blob/main/overall%20insights.PNG?raw=true)
 
@@ -80,7 +87,6 @@ By leveraging CRM analytics, the management and marketing division of RB123 aims
   
 ## **Recommendation**
 ![recommendation](![image](https://github.com/user-attachments/assets/dc30cf29-18d7-471b-8290-a175eae9cfae)
-)
 ### Improvement of CRM and customer engagement
 * Automation of CRM System: Optimize CRM tools to automate parts of the qualification process, saving time and resources. Using a CRM platform combined with AI will be more helpful to collect data effectively.
 * Enhance Lead Tracking: Implement better lead tracking mechanisms to understand the source of all leads.
