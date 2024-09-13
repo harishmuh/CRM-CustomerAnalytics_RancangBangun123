@@ -86,7 +86,7 @@ By leveraging CRM analytics, the management and marketing division of RB123 aims
 * Bogor has 15% of overall mention, geographical advantage, and lower cost expansion.
   
 ## **Recommendation**
-![recommendation](![image](https://github.com/user-attachments/assets/dc30cf29-18d7-471b-8290-a175eae9cfae)
+![image](https://github.com/user-attachments/assets/dc30cf29-18d7-471b-8290-a175eae9cfae)
 ### Improvement of CRM and customer engagement
 * Automation of CRM System: Optimize CRM tools to automate parts of the qualification process, saving time and resources. Using a CRM platform combined with AI will be more helpful to collect data effectively.
 * Enhance Lead Tracking: Implement better lead tracking mechanisms to understand the source of all leads.
