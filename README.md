@@ -32,6 +32,9 @@ The use of CRM systems in architecture and construction firms presents unique ch
 # **Goals of Customer - CRM Analytics**
 By leveraging CRM analytics, the management and marketing division of RB123 aims to gain a comprehensive understanding of their customer journey and current lead trends. They seek to identify the profiles and origins of successful leads to enhance the number of closed deals. Additionally, they need to analyze the reasons behind lost leads and develop strategies to minimize lead losses and potentially re-engage lost leads.
 
+## **Dataset source**
+The CRM dataset was obtained directly from the RB123 Marketing division. 
+
 ## **Results**
 
 ### **Current Lead Compositions**
