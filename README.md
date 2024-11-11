@@ -29,10 +29,10 @@ CRM analytics involves gathering, analyzing, and interpreting customer data with
 ## **Problem Statement**
 The use of CRM systems in architecture and construction firms presents unique challenges compared to other tech and digital industries. One primary issue is the difficulty in tracking and managing leads through the various stages due to the significantly longer customer journey and timelines (ranging from several months to a few years). This extended journey is typical since building or renovating a home requires substantial financial investment, necessitating long-term savings for many clients. Consequently, potential clients are highly selective and critical, making it challenging to gain their trust and secure closed deals. Each lead stage demands different handling strategies, and errors in tracking within the CRM system can lead to miscommunication and dissatisfaction, ultimately reducing the chances of converting leads into clients.
 
-# **Goals of Customer - CRM Analytics**
+**Goals of CRM/Customer Analytics**
 By leveraging CRM analytics, the management and marketing division of RB123 aims to gain a comprehensive understanding of their customer journey and current lead trends. They seek to identify the profiles and origins of successful leads to enhance the number of closed deals. Additionally, they need to analyze the reasons behind lost leads and develop strategies to minimize lead losses and potentially re-engage lost leads.
 
-## **Dataset source**
+**Dataset source**
 The CRM dataset was obtained directly from the RB123 Marketing division. 
 
 ## **Results**
