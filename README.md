@@ -1,6 +1,6 @@
 ![image](https://github.com/harishmuh/CRM-CustomerAnalytics_RancangBangun123/blob/main/rancangbangun123_porto.PNG?raw=true)
 
-# **Customer Analytics of an Indoneisan Architectural & Construction firm, RancangBangun123**
+# **Customer Analytics of an Indonesian Architectural & Construction firm, RancangBangun123**
 
 ## **Context**
 **RancangBangun123**
